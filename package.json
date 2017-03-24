@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cat.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon cat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeschuyler/express-static.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukeschuyler/express-static/issues"
+  },
+  "homepage": "https://github.com/lukeschuyler/express-static#readme"
+}
